@@ -1,0 +1,54 @@
+
+body{
+background-color: lightblue;
+font-family: 'Segoe UI',;
+}
+h1{
+color: blue;
+}
+
+.p1{
+background-color: yellowgreen;
+color: black;
+font-family: 'Lucida Sans';
+width: 135px;
+border-style: double;
+border-radius: 10px;
+padding-left: 5px;
+padding-right: 5px;}
+
+a:hover{
+color: brown;
+}
+
+.p2{
+ color: olive;   
+ font-family: 'Gill Sans';
+}
+
+.p3{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 18px;
+background-color:lightgreen;
+}
+input[type="text"], input[type="email"], textarea, select, button{
+display: block;
+margin: 15px 0px;
+}
+
+
+
+.table{
+font-family: 'Franklin Gothic Medium';
+font-size: 18px;
+border-collapse: collapse; width: auto;
+
+
+
+}
+.td, th{
+padding: 2px 3px;    
+width: 300px;
+height: 5px;
+border-radius: 1px;
+}
